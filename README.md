@@ -6,7 +6,7 @@
 
 [알파 0.4.0 다운로드](https://github.com/koo2th/prospi-korean-subtitles/releases/tag/v0.4.0-alpha)
 
-릴리스 페이지의 **Assets**에서 `ProspiSubtitles-Alpha-0.4.0.zip`을 받으세요. `Source code` ZIP은 실행 프로그램이 아닙니다.
+릴리스 페이지의 **Assets**에서 `ProspiSubtitles-Alpha-0.4.0-20260914.zip`을 받으세요. `Source code` ZIP은 실행 프로그램이 아닙니다.
 
 ## 실행 방법
 
